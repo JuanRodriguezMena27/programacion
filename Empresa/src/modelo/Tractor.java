@@ -13,8 +13,8 @@ public class Tractor extends Vehiculo {
 
     public Tractor() {
         this.precioDia = 70000;
-        this.fechaDeIda = "20/11/2022";
-        this.fechaDeVuelta = "25/11/2022";
+        this.fechaDeIda = "17/04/2022";
+        this.fechaDeVuelta = "12/05/2022";
     }
 
     public Tractor(double precioDia, String fechaDeIda, String fechaDeVuelta, String matricula, boolean estado) {
